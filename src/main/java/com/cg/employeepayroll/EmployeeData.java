@@ -16,14 +16,14 @@ public class EmployeeData {
         return salary;
     }
 
-    EmployeeData(String name, String id, String salary){
+    public EmployeeData(String name, String id, String salary){
         this.name=name;
         this.id=id;
         this.salary=salary;
     }
 
     public String toString(){
-        return name + "\n" + id + "\n" + salary;
+        return name + " " + id + " " + salary;
     }
 
 }

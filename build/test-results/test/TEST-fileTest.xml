@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fileTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-22T04:35:08" hostname="LAPTOP-OULI8K5P" time="0.014">
+  <properties/>
+  <testcase name="given3Employees_whenWrittenToFile_shouldMatchEmployeeEntries" classname="fileTest" time="0.014"/>
+  <system-out><![CDATA[
+Writing Employee Roaster to Console
+[Jeff Bezos 1 10000, Bill Gates 2 20000, Mark Zuckerberg 3 30000]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
